@@ -1,0 +1,22 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+*{
+  background: #E5E5E5;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#rowId{
+  margin: 10px;
+  width: 100%;
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+  border: 1px solid #A2A3A4;
+}
+
+.notFound-body{
+  text-align: center;
+  padding-top: 40px;
+}
