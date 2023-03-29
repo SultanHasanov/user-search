@@ -1,3 +1,5 @@
+<a href="https://sultanhasanov.github.io/user-search/">Demo</a>
+
 <b>1.  Копируем репозиторий</b>
 ```
 git clone https://github.com/SultanHasanov/user-search.git
@@ -10,6 +12,3 @@ npm i
 ```
 npm start
 ```
-
-<a href="https://sultanhasanov.github.io/user-search/">Demo</a>
-
