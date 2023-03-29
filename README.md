@@ -10,3 +10,6 @@ npm i
 ```
 npm start
 ```
+```
+<a href="https://sultanhasanov.github.io/user-search/">Demo</a>
+```
